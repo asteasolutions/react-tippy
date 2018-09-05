@@ -1,5 +1,5 @@
 {
-  "name": "react-tippy",
+  "name": "@asteasolutions/react-tippy",
   "version": "1.2.2",
   "description": "React tippy",
   "main": "dist/react-tippy.js",
@@ -7,12 +7,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tvkhoa/react-tippy.git"
+    "url": "https://github.com/asteasolutions/react-tippy.git"
   },
   "bugs": {
-    "url": "https://github.com/tvkhoa/react-tippy/issues"
+    "url": "https://github.com/asteasolutions/react-tippy/issues"
   },
-  "homepage": "https://github.com/tvkhoa/react-tippy",
+  "homepage": "https://github.com/asteasolutions/react-tippy",
   "devDependencies": {
     "babel": "^6.23.0",
     "babel-core": "^6.24.0",
